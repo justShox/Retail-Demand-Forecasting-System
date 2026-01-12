@@ -1,4 +1,4 @@
-#Retail Demand Forecasting System
+Retail Demand Forecasting System
 
 This project is a machine learning–based retail demand forecasting system designed to support store managers in procurement and inventory planning. Using historical sales data enriched with temporal features such as month, day of week, holidays, and promotions, the system predicts future product demand to help determine optimal purchase quantities.
 
